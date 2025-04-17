@@ -52,4 +52,4 @@ java -jar target/EmployeeManagement-1.0-SNAPSHOT.jar
 - `pom.xml` - Maven configuration
 
 ## Contact
-For questions or support, please contact [your.email@example.com].
+For questions or support, please contact [buntulevycaleb@gmail.com].
