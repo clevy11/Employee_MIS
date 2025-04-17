@@ -22,7 +22,7 @@ Employee Management System is a desktop application built with JavaFX for managi
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/EmployeeManagement.git
+   git clone https://github.com/clevy/EmployeeManagement.git
    ```
 2. Navigate to the project directory:
    ```
